@@ -1,0 +1,526 @@
+Saltar para o conteúdo
+Alternar barra lateral
+Wikipédia
+Pesquisar na Wikipédia
+Criar uma conta
+Página principal
+Conteúdo destacado
+Eventos atuais
+Esplanada
+Página aleatória
+Portais
+Informar um erro
+Colaboração
+Boas-vindas
+Ajuda
+Página de testes
+Portal comunitário
+Mudanças recentes
+Manutenção
+Criar página
+Páginas novas
+Contato
+Donativos
+Ferramentas
+Páginas afluentes
+Alterações relacionadas
+Carregar ficheiro
+Páginas especiais
+Hiperligação permanente
+Informações da página
+Citar esta página
+Elemento Wikidata
+Editar hiperligações interlínguas
+Imprimir/exportar
+Criar um livro
+Descarregar como PDF
+Versão para impressão
+Noutros projetos
+Wikimedia Commons
+Idiomas
+Nesta Wikipédia, os atalhos de idioma estão na parte superior da página, em frente ao título do artigo.
+ArtigoDiscussão
+VerEditarHistórico
+[ocultar]
+
+Alan Turing
+Este é um artigo bom. Clique aqui para mais informações.Origem: Wikipédia, a enciclopédia livre.
+Alan Turing
+
+Turing em 1928, aos dezesseis anos de idade
+Nome completo	Alan Mathison Turing
+Conhecido(a) por	
+Lista[Expandir]
+Nascimento	23 de junho de 1912
+Maida Vale, Londres
+Morte	7 de junho de 1954 (41 anos)
+Wilmslow, Cheshire
+Nacionalidade	inglês
+Educação	Sherborne School
+Alma mater	
+Universidade de Cambridge (BA, MA)
+Universidade de Princeton (PhD)
+Prêmios	Prêmio Smith (1936)
+Causa da morte	Suicídio por ingestão de cianeto
+Assinatura
+Alan Turing signature.svg
+Orientador(es)(as)	Alonzo Church
+Orientado(a)(s)	
+Robin Gandy
+Beatrice Worsley
+Instituições	
+Universidade de Manchester
+Escola Governamental de Código e Cifra
+Laboratório Nacional de Física
+Campo(s)	
+Lista[Expandir]
+Tese	Sistemas de Lógica Baseada em Ordinais (1938)
+Máquina de Turing
+Máquina
+Máquina de Turing universal
+Máquina de Turing alternada
+Máquina de Turing quântica
+Máquina de Turing não determinística
+Máquina de Turing somente de leitura
+Máquina de Turing movimentação à direita
+Máquina de Turing probabilística
+Máquina de Turing multifita
+Máquina de Turing de Várias Faixas
+Máquinas de Turing equivalentes
+Exemplos de Máquinas de Turing
+Ciência
+Alan Turing
+Categoria:Máquina de Turing
+vde
+Alan Mathison Turing (23 de junho de 1912 – 7 de junho de 1954) foi um matemático,[1] cientista da computação, lógico, criptoanalista, filósofo e biólogo teórico britânico. Turing foi altamente influente no desenvolvimento da ciência da computação teórica, proporcionando uma formalização dos conceitos de algoritmo e computação com a máquina de Turing, que pode ser considerada um modelo de um computador de uso geral.[2][3][4] Ele é amplamente considerado o pai da ciência da computação teórica e da inteligência artificial.[5] Apesar dessas realizações ele nunca foi totalmente reconhecido em seu país de origem durante sua vida por ser homossexual e porque grande parte de seu trabalho foi coberto pela Lei de Segredos Oficiais.
+
+Durante a Segunda Guerra Mundial Turing trabalhou para a Escola de Código e Cifras do Governo (GC&CS) em Bletchley Park, o centro britânico de criptoanálise que produzia ultra inteligência. Por um tempo ele liderou a Hut 8, a seção responsável pela análise criptográfica naval alemã. Lá ele desenvolveu várias técnicas para acelerar a quebra das cifras alemãs, incluindo melhorias no método de bombardeio polonês antes da guerra, bem como uma máquina eletromecânica que poderia encontrar configurações para a máquina Enigma. Turing desempenhou um papel crucial na quebra de mensagens codificadas interceptadas que permitiram aos Aliados derrotar os nazistas em muitos compromissos cruciais, incluindo a Batalha do Atlântico, e ao fazê-lo os ajudou a vencer a guerra. Devido aos problemas da história contrafactual, é difícil estimar o efeito preciso que a inteligência ultra teve na guerra[6] mas foi estimado que este trabalho encurtou a guerra na Europa em mais de dois anos e salvou mais de 14 milhões de vidas.[7]
+
+Após a guerra Turing trabalhou no Laboratório Nacional de Física, onde projetou o Mecanismo de Computação Automática, um dos primeiros projetos para um computador de programa armazenado. Em 1948 Turing ingressou no Laboratório de Máquinas de Computação de Max Newman, na Victoria University de Manchester, onde ajudou a desenvolver os computadores de Manchester[8] e se interessou por biologia matemática. Ele escreveu um artigo sobre as bases químicas da morfogênese e previu reações químicas oscilantes, como a reação de Belousov – Zhabotinsky, observada pela primeira vez na década de 1960.
+
+Turing foi processado judicialmente em 1952 por atos homossexuais: a Emenda Labouchere de 1885 determinara que "indecência grosseira" era uma ofensa criminal no Reino Unido. Ele aceitou o tratamento de castração química, com dietilestilbestrol, como alternativa à prisão. Turing morreu em 1954, 16 dias antes de seu 42º aniversário, por envenenamento por cianeto. Um inquérito determinou sua morte como suicídio, mas se observou que a evidência conhecida também é consistente com envenenamento acidental. Em 2009, após uma campanha na Internet, o primeiro-ministro britânico Gordon Brown fez um pedido de desculpas público e oficial a Turing em nome do governo britânico pela "maneira terrível como foi tratado". A rainha Elizabeth II concedeu a Turing um perdão póstumo em 2013. A "lei Alan Turing" é agora um termo informal para uma lei britânica de 2017 que retroativamente perdoou homens advertidos ou condenados sob a legislação histórica que proibia atos homossexuais.[9]
+
+
+Índice
+1	Infância e educação
+1.1	Família
+1.2	Escola
+1.3	Christopher Morcom
+1.4	Universidade e trabalho em computabilidade
+2	Carreira e pesquisa
+2.1	Criptanálise
+2.2	Bomba eletromecânica
+2.3	Hut 8 e o Enigma naval
+2.4	Turingery
+2.5	Delilah
+2.6	Computadores antigos e o teste de Turing
+2.7	Formação de padrões e biologia matemática
+3	Vida pessoal
+3.1	Noivado
+3.2	Condenação por indecência
+3.3	Morte
+3.4	Desculpas e perdão do governo
+4	Legado
+4.1	Prêmios, honras e tributos
+4.2	Celebrações do centenário
+4.3	Controvérsia histórica na Inglaterra
+5	Notas
+6	Referências
+6.1	Bibliografia
+7	Ligações externas
+Infância e educação
+Família
+Turing nasceu em Maida Vale, Londres, enquanto seu pai, Julius Mathison Turing (1873-1947), estava de licença de seu cargo no Serviço Civil Indiano (ICS) em Chatrapur, atual estado de Odisha, na Índia.[10][11] O pai de Turing era filho de um clérigo, o Rev. John Robert Turing, de uma família escocesa de comerciantes sediada nos Países Baixos e que incluía um baronete. A mãe de Turing, esposa de Julius, era Ethel Sara Turing (1881–1976), filha de Edward Waller Stoney, engenheiro chefe das Ferrovias Madras. Os Stoneys eram uma família de nobres protestantes anglo-irlandeses do condado Tipperary e do condado Longford, enquanto Ethel passara grande parte de sua infância no condado Clare.[12]
+
+O trabalho de Júlio com o ICS levou a família à Índia britânica, onde seu avô fora general do Exército de Bengala. No entanto, Julius e Ethel queriam que seus filhos fossem criados na Grã-Bretanha, então eles se mudaram para Maida Vale,[13] Londres, onde Alan Turing nasceu em 23 de junho de 1912, como registrado por uma placa azul na parte externa da casa de seu nascimento,[14] mais tarde, transformada no Hotel Colonnade.[10][15] Turing tinha um irmão mais velho, John (o pai de Sir John Dermot Turing, 12º baronete dos baronetes Turing).[16]
+
+A comissão de serviço público do pai de Turing ainda estava ativa e, durante os anos de infância de Turing, seus pais viajaram entre Hastings, no Reino Unido,[17] e a Índia, deixando seus dois filhos com um casal aposentado do Exército. Em Hastings, Turing ficou no Baston Lodge, Upper Maze Hill, St. Leonards-on-Sea, agora também marcado com uma placa azul.[18] A placa foi revelada em 23 de junho de 2012, o centenário do seu nascimento.[19]
+
+Muito cedo na vida, Turing mostrou sinais da genialidade que mais tarde exibiria com destaque.[20] Seus pais compraram uma casa em Guildford em 1927 e Turing viveu lá durante as férias escolares. O local também é marcado com uma placa azul.[21]
+
+Escola
+Seus pais o matricularam na St. Michael's, uma escola diurna em Charles Road, 20, St. Leonards-on-Sea, aos seis anos de idade. A diretora reconheceu seu talento desde o início, assim como muitos de seus professores. Entre janeiro de 1922 e 1926, Turing foi educado na Hazelhurst Preparatory School, uma escola independente na vila de Frant em Sussex (atualmente East Sussex).[22] Em 1926, aos 13 anos, ingressou na Sherborne School, um internato independente na cidade comercial de Sherborne, em Dorset. O primeiro dia de aula coincidiu com a Greve Geral de 1926, na Grã-Bretanha, mas Turing estava tão determinado a participar, que andou de bicicleta desacompanhado pelos 97 quilômetros que separam Southampton de Sherborne, parando durante a noite em uma pousada.[23]
+
+A sua inclinação natural para a matemática e as ciências não lhe valeu o respeito de alguns dos professores de Sherborne, cuja definição de educação enfatizava mais os clássicos. O diretor escreveu aos pais: "Espero que ele não caia entre dois bancos. Se ele vai permanecer na escola pública, ele deve ter como objetivo ser educado. Se ele vai ser apenas um especialista científico, está perdendo tempo em uma escola pública".[24] Apesar disto, Turing continuou demonstrando notável capacidade nos estudos que amava, resolvendo problemas avançados em 1927 sem ter estudado sequer cálculo elementar. Em 1928, aos 16 anos, entrou em contato com o trabalho de Albert Einstein; não apenas ele o compreendeu, mas é possível que ele tenha conseguido deduzir o questionamento de Einstein das leis de Newton a partir de um texto em que isso nunca foi explicitado.[25]
+
+Christopher Morcom
+Em Sherborne, Turing formou uma amizade significativa com o colega Christopher Collan Morcom (13 de julho de 1911 — 13 de fevereiro de 1930),[26] que foi descrito como o seu "primeiro amor". O relacionamento deles inspirou os empreendimentos futuros de Turing, mas foi interrompido pela morte de Morcom, em fevereiro de 1930, de complicações da tuberculose bovina, contraída após beber o leite de vaca infectado alguns anos antes.[27][28][29]
+
+O evento lhe causou grande tristeza. Ele lidou com sua dor trabalhando com muito mais empenho nos tópicos de ciências e matemática que havia compartilhado com Morcom. Em uma carta para a mãe de Morcom, Frances Isobel Morcom (nascida Swan), Turing escreveu:
+Tenho certeza de que não poderia ter encontrado em lugar nenhum outro companheiro tão brilhante e, ao mesmo tempo, tão charmoso e despretensioso. Eu considerava meu interesse em meu trabalho, e em coisas como astronomia (que ele me apresentou), como algo a ser compartilhado com ele e acho que ele sentia o mesmo por mim ... Eu sei que devo colocar muita energia e interesse pelo meu trabalho como se ele estivesse vivo, porque é isso que ele gostaria que eu fizesse.[30]
+Seu relacionamento com a mãe de Morcom continuou muito depois da morte dele, com ela mandando presentes para Turing e ele mandando cartas, normalmente nos aniversários de Morcom.[31] Um dia antes do terceiro aniversário da morte de Morcom (13 de fevereiro de 1933), ele escreveu à Sra. Morcom:
+
+Espero que esteja pensando em Chris quando isso chegar até você. Eu também estou, e esta carta é apenas para lhe dizer que estarei pensando em Chris e em você amanhã. Estou certo de que ele está tão feliz agora como estava quando esteve aqui. Seu carinhoso Alan.[32]
+Alguns especularam que a morte de Morcom foi a causa do ateísmo e do materialismo de Turing.[33] Aparentemente, neste ponto de sua vida, ele ainda acreditava em conceitos como um espírito, independente do corpo e sobrevivendo à morte. Em uma carta posterior, também escrita para a mãe de Morcom, Turing escreveu:
+Pessoalmente, acredito que o espírito está realmente eternamente conectado com a matéria, mas certamente não pelo mesmo tipo de corpo ... no que diz respeito à conexão real entre espírito e corpo, considero que o corpo pode se apegar a um "espírito", enquanto o corpo está vivo e acordado os dois estão firmemente conectados. Quando o corpo está dormindo, não posso adivinhar o que acontece, mas quando o corpo morre, o "mecanismo" do corpo, segurando o espírito, desaparece e o espírito encontra um novo corpo mais cedo ou mais tarde, talvez imediatamente.[34]
+Universidade e trabalho em computabilidade
+Depois de Sherborne, Turing estudou de 1931 a 1934 no King's College, Cambridge, onde foi agraciado com honras de primeira classe em matemática. Em 1935, aos 22 anos, foi eleito fellow do King's College com base em uma dissertação na qual provou o teorema central do limite.[35] Fato desconhecido pelo comitê, o teorema já havia sido comprovado, em 1922, por Jarl Waldemar Lindeberg.[36] Uma placa azul na faculdade foi revelada no centenário de seu nascimento em 23 de junho de 2012 e agora está instalada no edifício Keynes da faculdade no King's Parade.[37][38]
+
+Em 1936, Turing publicou seu artigo "Sobre números computáveis, com uma Aplicação ao Entscheidungsproblem".[39] Foi publicado no periódico Proceedings of London Mathematical Society em duas partes, a primeira em 30 de novembro e a segunda em 23 de dezembro.[40]
+
+
+King's College, Cambridge, onde Turing foi estudante em 1931 e tornou-se fellow em 1935. A sala de computadores tem o nome dele.
+Embora a prova de Turing tenha sido publicada logo após a prova equivalente de Alonzo Church usando seu cálculo lambda,[41] a abordagem de Turing é consideravelmente mais acessível e intuitiva do que a de Church.[42] Também incluía a noção de uma "Máquina Universal" (agora conhecida como máquina universal de Turing), com a ideia de que essa máquina poderia executar as tarefas de qualquer outra máquina de computação (como de fato o cálculo lambda de Church). De acordo com a tese de Church-Turing, as máquinas de Turing e o cálculo lambda são capazes de computar qualquer coisa que seja computável. John von Neumann reconheceu que o conceito central do computador moderno se devia ao artigo de Turing.[43]
+
+De setembro de 1936 a julho de 1938, Turing passou a maior parte do tempo estudando na Igreja da Universidade de Princeton, em seu segundo segundo ano como bolsista. Além de seu trabalho puramente matemático, estudou criptologia e também construiu três dos quatro estágios de um multiplicador binário eletromecânico.[44] Em junho de 1938, ele obteve seu PhD no Departamento de Matemática de Princeton;[45] sua dissertação, Sistemas de Lógica Baseada em Ordinais,[46] introduziu o conceito de lógica ordinal e a noção de computação relativa, onde as máquinas de Turing são aumentadas com os chamados oráculos, permitindo o estudo de problemas que não podem ser resolvidos por máquinas de Turing. John von Neumann queria contratá-lo como seu assistente de pós-doutorado, mas ele voltou para o Reino Unido.[47]
+
+Carreira e pesquisa
+Quando Turing voltou a Cambridge, participou de palestras dadas em 1939 por Ludwig Wittgenstein sobre os fundamentos da matemática.[48] As palestras foram reconstruídas literalmente, incluindo interjeições de Turing e outros estudantes, a partir das anotações dos alunos.[49] Turing e Wittgenstein discutiram e discordaram, com Turing defendendo o formalismo e Wittgenstein propondo sua visão de que a matemática não descobre verdades absolutas, mas as inventa.[50]
+
+Criptanálise
+Durante a Segunda Guerra Mundial, Turing foi um participante líder na quebra de cifras alemãs em Bletchley Park. O historiador e decifrador de código de guerra Asa Briggs disse: "Precisávamos de talento excepcional, precisávamos de um gênio em Bletchley, e Turing foi esse gênio".[51]
+
+Desde setembro de 1938, Turing trabalhou em período parcial na Escola de Código e Cifra do Governo (GC&CS), a organização britânica de quebra de códigos. Ele se concentrou na análise criptográfica da máquina de cifra Enigma usada pela Alemanha nazista, junto com Dilly Knox, um criptoanalista sênior do GC&CS.[52] Logo após a reunião de julho de 1939, perto de Varsóvia, na qual o Departamento de Cifras da Polônia forneceu aos britânicos e franceses detalhes sobre a fiação dos rotores da máquina Enigma e seu método de descriptografar as mensagens da máquina Enigma, Turing e Knox desenvolveram uma solução mais ampla.[53] O método polonês contava com um procedimento inseguro que os alemães provavelmente mudariam, o que de fato ocorreu em maio de 1940. A abordagem de Turing era mais geral, para o qual ele produziu a especificação funcional da bomba eletromecânica.[54]
+
+
+Duas casas no quintal no Bletchley Park. Turing trabalhou aqui entre 1939 e 1940, antes de se mudar para a Hut 8.
+Em 4 de setembro de 1939, um dia após o Reino Unido declarar guerra à Alemanha nazista, Turing informou a Bletchley Park, a estação de guerra da GC&CS.[55] Ao usar técnicas estatísticas para otimizar o julgamento de diferentes possibilidades no processo de quebra de código, Turing fez uma contribuição inovadora ao assunto. Ele escreveu dois artigos discutindo abordagens matemáticas, intitulados As Aplicações da Probabilidade à Criptografia[56] e Artigo sobre Estatísticas de Repetições,[57] que foram de tamanho valor para o GC&CS e seu sucessor, o GCHQ, que só foram liberados para os Arquivos Nacionais do Reino Unido em abril de 2012, pouco antes do centenário de seu nascimento. Um matemático do GCHQ, "que se identificou apenas como Richard", disse na época que o fato de o conteúdo ter sido restrito por cerca de 70 anos demonstrava sua importância e relevância para a criptoanálise do pós-guerra:[58]
+
+[Ele] disse que o fato de o conteúdo ter sido restrito "mostra a tremenda importância que tem nos alicerces do nosso assunto". ... Os artigos detalharam o uso de "análise matemática para testar e determinar quais são as configurações mais prováveis, ​​para que pudessem ser testadas o mais rápido possível." ... Richard disse que o GCHQ já havia "espremido o suco" dos dois artigos e estava "feliz por eles terem sido lançados em domínio público".
+Turing tinha a reputação de excêntrico em Bletchley Park. Era conhecido por seus colegas como "Prof" e seu tratado sobre Enigma era conhecido como "Livro do Prof".[59] Segundo o historiador Ronald Lewin, Jack Good, um criptoanalista que trabalhou com Turing, disse sobre seu colega:
+
+Na primeira semana de junho de cada ano, ele sofria um grave ataque de febre do feno e ia de bicicleta ao escritório usando uma máscara de gás para evitar o pólen. Sua bicicleta tinha um defeito: a corrente saía em intervalos regulares. Em vez de consertá-la, ele contava o número de vezes que os pedais giravam e descia da bicicleta a tempo de ajustar a corrente manualmente. Outra de suas excentricidades é que ele acorrentou sua caneca aos canos do aquecedor para impedir que ela fosse roubada.[60]
+Peter Hilton relatou sua experiência trabalhando com Turing na Hut 8 em suas "Reminiscências de Bletchley Park", de A Century of Mathematics in America:[61]
+
+É uma experiência rara encontrar um gênio autêntico. Aqueles de nós que têm o privilégio de habitar o mundo acadêmico estão familiarizados com o estímulo intelectual fornecido por colegas talentosos. Podemos admirar as ideias que eles compartilham conosco e geralmente somos capazes de entender sua fonte; chegamos até a acreditar que nós mesmos poderíamos ter criado tais conceitos e originado tais pensamentos. No entanto, a experiência de compartilhar a vida intelectual de um gênio é totalmente diferente; percebe-se que se está na presença de uma inteligência, uma sensibilidade de tal profundidade e originalidade que nos enchemos de admiração e excitação. Alan Turing foi um gênio desse tipo, e aqueles que, como eu, tiveram a oportunidade surpreendente e inesperada, criada pelas estranhas exigências da Segunda Guerra Mundial, de poder contar com Turing como colega e amigo, nunca esquecerão essa experiência, nem perderão seu imenso benefício para nós.
+Hilton ecoou pensamentos semelhantes no documentário da PBS, Decoding Nazi Secrets.[62]
+
+Enquanto trabalhava em Bletchley, Turing, que era um talentoso corredor de longa distância, ocasionalmente percorria os 64 quilômetros até Londres, quando ele era necessário para reuniões,[63] e era capaz de alcançar padrões de maratona de classe mundial.[64][65] Turing tentou participar da seleção olímpica britânica de 1948, mas foi prejudicado por uma lesão. Seu tempo de prova para a maratona foi apenas 11 minutos mais lento que o tempo da corrida olímpica de Thomas Richards, medalhista de prata britânico, de 2 horas e 35 minutos. Ele era o melhor corredor do Walton Athletic Club, fato descoberto quando ele ultrapassou o grupo enquanto corria sozinho.[66][67][68]
+
+Em 1946, Turing foi nomeado oficial da Ordem do Império Britânico (OBE) pelo rei Jorge VI por seus serviços de guerra, mas seu trabalho permaneceu em segredo por muitos anos.[69][70]
+
+Bomba eletromecânica
+Poucas semanas depois de chegar em Bletchley Park,[55] Turing tinha especificado uma máquina eletromecânica chamada de bomba, que poderia decifrar a máquina Enigma de forma mais eficaz do que a bomba kryptologiczna polonesa, a partir da qual o seu nome foi derivado. A bomba, com uma melhoria sugerida pelo matemático Gordon Welchman, tornou-se uma das principais ferramentas, e a principal automatizada, usada para atacar mensagens codificadas pela Enigma.[71]
+
+
+Uma réplica completa e funcional de uma bomba eletromecânica no Museu Nacional de Computação em Bletchley Park
+A bomba detectava quando uma contradição ocorria e descartava esse cenário, passando para o próximo. A maioria das configurações possíveis causaria contradições e seria descartada, deixando apenas algumas para serem investigadas em detalhe. Uma contradição ocorreria quando uma letra codificada fosse transformada na mesma letra de texto simples, o que era impossível com a Enigma. A primeira bomba foi instalada em 18 de março de 1940.[72]
+
+No final de 1941, Turing e seus colegas criptoanalistas Gordon Welchman, Hugh Alexander e Stuart Milner-Barry estavam frustrados. Com base no trabalho dos poloneses, eles criaram um bom sistema de trabalho para descriptografar os sinais da Enigma, mas sua equipe e bombas limitadas significavam que não podiam traduzir todos os sinais. No verão, eles tiveram um sucesso considerável e as perdas no transporte caíram para menos de 100 mil toneladas por mês; no entanto, eles precisavam muito de mais recursos para acompanhar os ajustes alemães. Eles tentaram conseguir mais pessoas e financiar mais bombas pelos canais adequados, mas fracassaram.[73]
+
+Em 28 de outubro eles escreveram diretamente para Winston Churchill explicando suas dificuldades, com Turing como o primeiro nome. Eles enfatizaram o quão pequena era sua necessidade quando comparada com o vasto gasto de homens e dinheiro pelas forças e comparada com o nível de ajuda que eles poderiam oferecer às forças.[73] Como Andrew Hodges, biógrafo de Turing, escreveu mais tarde: "Esta carta teve um efeito elétrico".[74] Churchill escreveu um memorando ao general Ismay, que dizia: "AÇÃO ESTE DIA. Verifique se eles têm tudo o que querem com extrema prioridade e me informe que isso foi feito." Em 18 de novembro, o chefe do serviço secreto informou que todas as medidas possíveis estavam sendo tomadas. Os criptografadores de Bletchley Park não sabiam da resposta do primeiro-ministro, mas como Milner-Barry lembrou: "Tudo o que notamos foi que quase a partir daquele dia os caminhos difíceis começaram milagrosamente a se suavizar".[75] Mais de duzentas bombas estavam em operação até o final da guerra.[76]
+
+Hut 8 e o Enigma naval
+
+Estátua de Turing, de Stephen Kettle, no Bletchley Park, encomendada por Sidney Frank e construída a partir de meio milhão de peças de ardósia galesa.[77]
+Turing decidiu enfrentar o problema particularmente difícil do Enigma naval alemão "porque ninguém mais estava fazendo nada a respeito e eu poderia tê-lo sozinho".[78] Em dezembro de 1939, Turing resolveu a parte essencial do sistema de indicadores navais, que era mais complexo que os sistemas de indicadores utilizados pelos outros serviços.[79]
+
+Naquela mesma noite, ele também concebeu a ideia do Banburismus, uma técnica estatística sequencial (o que Abraham Wald mais tarde chamou de análise sequencial) para ajudar a quebrar o Enigma naval, "embora eu não tivesse certeza de que funcionaria na prática, e não estava, de fato, seguro, até alguns dias antes de realmente quebrá-lo".[78] Para isso, ele inventou uma medida do peso da evidência que chamou de proibição. O Banburismus podia descartar certas sequências dos rotores Enigma, reduzindo substancialmente o tempo necessário para testar as configurações nas bombas.[80] Mais tarde, esse processo sequencial de acumular peso suficiente de evidência usando decibans (um décimo da proibição) foi usado na análise criptográfica da cifra de Lorenz.[81]
+
+Turing viajou para os Estados Unidos em novembro de 1942[82] e trabalhou com criptoanalistas da Marinha dos Estados Unidos na construção da Enigma naval e de bombas em Washington; ele também visitou o Laboratório de Máquinas de Computação em Dayton, Ohio. A sua reação ao projeto americano de bombas estava longe de ser entusiasmada:
+
+O programa American Bombe deveria produzir 336 Bombas, uma para cada pedido de roda. Eu costumava sorrir internamente com a concepção limitada da Bomba implícita neste programa, mas pensei que não seria nada útil apontar que não as usaríamos realmente dessa maneira. Seu teste (de comutadores) dificilmente pode ser considerado conclusivo, pois eles não estavam testando o salto com dispositivos eletrônicos de localização de parada. Ninguém parece ter ouvido falar de rods, offiziers ou banburismus, a menos que realmente façam algo a respeito.[83]
+Durante essa viagem, também ajudou no Bell Labs no desenvolvimento de dispositivos de fala seguros.[84] Retornou a Bletchley Park em março de 1943. Durante sua ausência, Hugh Alexander assumiu oficialmente a posição de chefe da Hut 8, embora Alexander tenha sido o chefe de fato por algum tempo (Turing tinha pouco interesse no cotidiano do departamento). Turing tornou-se consultor geral de criptoanálise no Bletchley Park.[85]
+
+Alexander escreveu sobre a contribuição de Turing:
+
+Não deve haver dúvida para ninguém de que o trabalho de Turing foi o maior fator para o sucesso do Hut 8. Nos primeiros dias, ele foi o único criptógrafo que achou que valia a pena enfrentar o problema e não só foi o principal responsável pelo principal trabalho teórico dentro do Hut, mas também compartilhou com Welchman e Keen o principal crédito pela invenção da bomba. É sempre difícil dizer que alguém é "absolutamente indispensável", mas se alguém era indispensável para o Hut 8, esse alguém era Turing. O trabalho do pioneiro sempre tende a ser esquecido quando a experiência e a rotina mais tarde fazem tudo parecer fácil, e muitos de nós no Hut 8 sentimos que a magnitude da contribuição de Turing nunca foi totalmente percebida pelo mundo exterior.[86]
+Turingery
+Em julho de 1942, Turing desenvolveu uma técnica denominada Turingery (ou brincando, Turingismus)[87] para uso contra as mensagens cifradas de Lorenz produzidas pela nova máquina Geheimschreiber (escritor secreto) dos alemães. Este foi um teletipo de codinome Atum em Bletchley Park. Turingery era um método de quebrar a roda, ou seja, um procedimento para determinar as configurações das rodas de Tunny.[88] Ele também apresentou a equipe Tunny a Tommy Flowers, que, sob a orientação de Max Newman, construiu o computador Colossus, o primeiro computador eletrônico digital programável do mundo, que substituiu uma máquina anterior mais simples (a Heath Robinson), e cuja velocidade superior permitiu que as técnicas de descriptografia estatística fossem aplicadas de maneira útil às mensagens.[89] Alguns disseram erroneamente que Turing foi uma figura-chave no projeto do computador Colossus. Turingery e a abordagem estatística do Banburismus, sem dúvida, contribuíram para o pensamento sobre a criptoanálise da cifra de Lorenz,[90][91] mas Turing não esteve diretamente envolvido no desenvolvimento do Colossus.[92]
+
+Delilah
+Após seu trabalho no Bell Labs nos Estados Unidos,[93] Turing adotou a ideia de codificação eletrônica da fala no sistema telefônico. Na última parte da guerra, ele se mudou para trabalhar para o Serviço de Segurança de Rádio do Serviço Secreto (mais tarde HMGCC) no Hanslope Park, onde desenvolveu ainda mais seus conhecimentos de eletrônica com a assistência do engenheiro Donald Bayley. Juntos, eles empreenderam o projeto e a construção de uma máquina portátil de comunicação de voz com o codinome Delilah.[94] A máquina foi projetada para diferentes aplicações, mas não possuía capacidade de uso com transmissões de rádio de longa distância. De qualquer forma, Delilah foi concluída tarde demais para ser usada durante a guerra. Embora o sistema tenha funcionado totalmente, com Turing demonstrando aos funcionários que poderia criptografar e decodificar uma gravação de um discurso de Winston Churchill, Delilah não foi adotado para uso.[95]
+
+Computadores antigos e o teste de Turing
+
+Placa, 78 High Street, Hampton
+Entre 1945 e 1947, Turing viveu em Hampton, Londres, enquanto trabalhava no projeto do computador ACE (Automatic Computing Engine) no Laboratório Nacional de Física (NPL - sigla em inglês). Ele apresentou um artigo em 19 de fevereiro de 1946, que foi o primeiro projeto detalhado de um computador capaz de armazenar um programa.[96] O artigo incompleto Primeiro Rascunho do Relatório sobre o EDVAC de Von Neumann antecedeu o artigo de Turing, mas era muito menos detalhado e, de acordo com John R. Womersley, superintendente da Divisão de Matemática da NPL, "continha várias ideias que são do próprio Turing".[97] Embora o ACE fosse um projeto viável, o sigilo em torno do trabalho de guerra em Bletchley Park levou a atrasos no início do projeto e Turing ficou desiludido. No final de 1947 ele voltou a Cambridge para um ano sabático, durante o qual produziu um trabalho seminal sobre Máquinas Inteligentes que não foi publicado em sua vida.[98] Enquanto permanecia em Cambridge, o ACE estava sendo construído em sua ausência. O computador executou seu primeiro programa em 10 de maio de 1950 e vários computadores posteriores em todo o mundo devem muito a ele. A versão completa do ACE de Turing não foi construída senão depois de sua morte.[99]
+
+Segundo as memórias do pioneiro alemão da computação Heinz Billing, do Instituto Max Planck de Física, houve uma reunião entre Turing e Konrad Zuse.[100]
+
+Em 1948, Turing foi nomeado reader no Departamento de Matemática da Universidade Victoria de Manchester. Um ano depois tornou-se vice-diretor do Laboratório de Máquinas de Computação, onde trabalhou no software de um dos primeiros computadores com programas armazenados — o Manchester Mark 1. Turing escreveu a primeira versão do Manual do Programador para esta máquina e foi recrutado por Ferranti como consultor no desenvolvimento de sua máquina comercial, a Ferranti Mark 1. Ele continuou a receber honorários de consultoria de Ferranti até sua morte.[101] Durante esse tempo, Turing continuou a fazer trabalhos mais abstratos em matemática[102] e em "Computadores e Inteligência" (Mind, outubro de 1950), Turing abordou o problema da inteligência artificial e propôs um experimento que ficou conhecido como teste de Turing, uma tentativa de definir um padrão para uma máquina ser chamada de "inteligente". A ideia era que se poderia dizer que um computador "pensa" se um interrogador humano não pudesse diferenciá-lo, por meio de conversa, de um ser humano. No artigo, Turing sugeriu que, em vez de criar um programa para simular a mente de um adulto, seria melhor produzir um mais simples para simular a mente de uma criança e depois submetê-lo a um processo de educação. Uma forma invertida do teste de Turing é amplamente usada na Internet; o teste CAPTCHA destina-se a determinar se o usuário é humano ou computador.[103]
+
+Em 1948, Turing, trabalhando com seu ex-colega de graduação, D. G. Champernowne, começou a escrever um programa de xadrez para um computador que ainda não existia. Em 1950, o programa foi concluído e apelidado de Turochamp.[104] Em 1952, ele tentou implementá-lo no Ferranti Mark 1, mas o computador não conseguiu executar o programa. Em vez disso, Turing "executou" o programa folheando as páginas do algoritmo e seguindo suas instruções em um tabuleiro de xadrez, levando cerca de meia hora por jogada. O jogo foi gravado.[105] Segundo Garry Kasparov, o programa de Turing "jogava um jogo de xadrez reconhecível".[106] O programa perdeu para o colega de Turing, Alick Glennie, embora se diga que ganhou um jogo contra a esposa de Champernowne, Isabel.[107]
+
+O teste de Turing foi uma contribuição significativa, caracteristicamente provocativa e duradoura para o debate sobre inteligência artificial, que continua depois de mais de meio século.[108]
+
+Formação de padrões e biologia matemática
+Quando Turing tinha 39 anos, em 1951, ele se voltou para a biologia matemática, finalmente publicando sua obra-prima "A Base Química da Morfogênese" em janeiro de 1952. Ele estava interessado em morfogênese, o desenvolvimento de padrões e formas em organismos biológicos. Ele sugeriu que um sistema de substâncias químicas reagindo entre si e se difundindo no espaço, denominado sistema reação-difusão, poderia explicar "os principais fenômenos da morfogênese".[109] Ele usou sistemas de equações diferenciais parciais para modelar reações químicas catalíticas. Por exemplo, se um catalisador A é necessário para que uma determinada reação química ocorra e se a reação produziu mais do catalisador A, dizemos que a reação é autocatalítica e que há um feedback positivo que pode ser modelado pelo diferencial de equações não lineares. Turing descobriu que padrões poderiam ser criados se a reação química não apenas produzisse o catalisador A, mas também produzisse um inibidor B que diminuísse a produção de A. Se A e B então se difundissem através do recipiente em taxas diferentes, poderia haver algumas regiões onde A dominou e algumas onde B predominou. Para calcular a extensão disto, Turing precisaria de um computador poderoso, mas como não estava disponível em 1951, ele teve que usar aproximações lineares para resolver as equações manualmente. Esses cálculos deram os resultados qualitativos certos e produziram, por exemplo, uma mistura uniforme que, estranhamente, espaçava regularmente pontos vermelhos fixos. O bioquímico russo Boris Belousov realizou experimentos com resultados semelhantes, mas não conseguiu publicar seus trabalhos por causa do preconceito contemporâneo de que algo assim viola a segunda lei da termodinâmica. Belousov não estava ciente do artigo de Turing nas Philosophical Transactions of the Royal Society.[110]
+
+Embora publicado antes da compreensão da estrutura e do papel do DNA, o trabalho de Turing sobre morfogênese permanece relevante hoje e é considerado um trabalho seminal em biologia matemática.[111] Uma das primeiras aplicações do artigo de Turing foi o trabalho de James Murray explicando manchas e listras no pelo de gatos, grandes e pequenas.[112][113][114] Outras pesquisas na área sugerem que o trabalho de Turing pode explicar parcialmente o crescimento de "penas, folículos capilares, o padrão de ramificação dos pulmões e até a assimetria esquerda-direita que coloca o coração no lado esquerdo do peito".[115] Em 2012, Sheth et al. descobriram que, em camundongos, a remoção dos genes Hox causa um aumento no número de dedos sem um aumento no tamanho geral do membro, sugerindo que os genes Hox controlam a formação dos dedos, ajustando o comprimento de onda de um mecanismo do tipo Turing.[116] Trabalhos posteriores não ficaram disponíveis até Collected Works of A. M. Turing ser publicado em 1992.[117]
+
+Vida pessoal
+Noivado
+Em 1941 Turing propôs casamento a Joan Clarke, colega do Hut 8, matemática e criptoanalista, mas seu noivado durou pouco. Depois de admitir sua homossexualidade à noiva, que teria ficado "imperturbável" pela revelação, Turing decidiu que não poderia continuar com o casamento.[118]
+
+Condenação por indecência
+Em janeiro de 1952 Turing tinha 39 anos quando iniciou um relacionamento com Arnold Murray, um homem desempregado de 19 anos. Pouco antes do Natal, Turing estava caminhando pela Oxford Road em Manchester quando conheceu Murray nos arredores do Regal Cinema e o convidou para almoçar. Em 23 de janeiro, a casa de Turing foi assaltada. Murray disse a Turing que conhecia o ladrão, e Turing denunciou o crime à polícia. Durante a investigação, ele reconheceu um relacionamento sexual com Murray. À época, os atos homossexuais eram considerados crimes no Reino Unido[119] e os dois foram acusados de "indecência grosseira" de acordo com a Seção 11 da Lei de Emenda à Lei Criminal de 1885.[120]
+
+Mais tarde, Turing foi convencido por seu irmão e por seu próprio advogado a se declarar culpado.[121] O caso, Regina v. Turing e Murray, foi levado a julgamento em 31 de março de 1952.[122] Turing foi condenado e teve uma escolha entre prisão e liberdade condicional. Sua liberdade condicional estaria condicionada ao seu acordo em sofrer alterações físicas hormonais destinadas a reduzir a libido. Ele aceitou a opção de injeções do que era então chamado estilbestrol (agora conhecido como dietilestilbestrol ou DES), um estrogênio sintético; essa feminização de seu corpo foi continuada durante um ano. O tratamento tornou Turing impotente e causou a formação de tecido mamário,[123] cumprindo, no sentido literal, a previsão de Turing de que "sem dúvida emergirei de tudo um homem diferente, mas que ainda não descobri".[124][125] Murray recebeu uma condicional.[126]
+
+A condenação de Turing levou à remoção de sua habilitação de segurança, impedindo-o de continuar a ser consultor de criptografia para a Sede de Comunicações do Governo (GCHQ), a agência de inteligência de sinais britânica que havia evoluído do GC&CS em 1946, embora ele mantivesse seu trabalho acadêmico. Turing foi impedido de entrar nos Estados Unidos após sua condenação em 1952, mas estava livre para visitar países europeus. Turing nunca foi acusado de espionagem, mas, como todos os que haviam trabalhado em Bletchley Park, foi impedido pela Lei de Segredos Oficiais de discutir o seu trabalho durante os tempos de guerra.[127]
+
+Morte
+Em 8 de junho de 1954 a governanta de Turing encontrou-o morto. Ele morrera no dia anterior e a causa da morte foi estabelecida como intoxicação por cianeto.[128] Quando seu corpo foi descoberto, uma maçã estava meio comida ao lado de sua cama e, embora a maçã não tivesse sido testada quanto ao cianeto,[129] especulou-se que esse foi o meio pelo qual Turing havia consumido uma dose fatal. Um inquérito determinou que ele havia cometido suicídio. Andrew Hodges e outro biógrafo, David Leavitt, especularam que Turing estava encenando uma cena do filme de Walt Disney, Branca de Neve e os Sete Anões (1937), seu conto de fadas favorito. Os dois homens observaram que (nas palavras de Leavitt) ele sentia "um prazer especialmente intenso na cena em que a rainha má mergulha sua maçã na bebida venenosa".[130] Seu corpo foi cremado no Crematório de Woking em 12 de junho de 1954,[131] e suas cinzas foram espalhadas nos jardins do crematório, assim como as do pai.[132]
+
+O professor de filosofia Jack Copeland questionou vários aspectos do veredicto histórico do médico legista. Ele sugeriu uma explicação alternativa para a causa da morte de Turing: a inalação acidental de vapores de cianeto de um aparelho usado para galvanizar ouro em colheres. O cianeto de potássio era usado para dissolver o ouro. Turing tinha um aparelho assim instalado em seu minúsculo quarto de hóspedes. Copeland observou que os achados da autópsia eram mais consistentes com a inalação do que com a ingestão do veneno. Turing também habitualmente comia uma maçã antes de ir para a cama e não era incomum que a maçã fosse descartada pela metade.[133] Além disso, Turing havia suportado seus reveses legais e tratamento hormonal (que havia sido interrompido um ano antes) "com bom humor" e não mostrava sinais de desânimo antes de sua morte. Ele até estabeleceu uma lista de tarefas que pretendia concluir ao retornar ao escritório após o fim de semana de férias. A mãe de Turing acreditava que a ingestão foi acidental, resultante do armazenamento descuidado do filho de produtos químicos de laboratório.[134] O biógrafo Andrew Hodges teorizou que Turing providenciou a aquisição do equipamento para permitir deliberadamente negação plausível à mãe em relação a qualquer alegação de suicídio.[135]
+
+
+OBE de Turing atualmente realizada em arquivos da Escola Sherborne
+Os teóricos da conspiração apontaram que Turing foi causa de intensa ansiedade entre as autoridades britânicas na época de sua morte. Os serviços secretos temiam que os comunistas prendessem homossexuais importantes e os usassem para reunir informações. Turing não apenas estava envolvido em um trabalho altamente secreto, como também era um homossexual que passava férias em países europeus perto da Cortina de Ferro. De acordo com a teoria da conspiração, é possível que os serviços secretos o considerassem um risco de segurança muito alto e assassinassem uma das mentes mais brilhantes do mundo.[136]
+
+Foi sugerido que sua crença em adivinhação possa ter-lhe causado humor deprimido.[132] Quando jovem, Turing fora avisado por um adivinho que ele seria um gênio. Pouco antes de sua morte, durante um dia de viagem a St Annes-on-Sea com a família Greenbaum, Turing novamente decidiu consultar uma cartomante. De acordo com a filha dos Greenbaums, Barbara:[137]
+
+Estava um lindo dia ensolarado e Alan estava de bom humor e lá fomos nós. ... Então ele pensou que seria uma boa ideia ir à Pleasure Beach em Blackpool. Encontramos a barraca de uma cartomante e Alan disse que gostaria de entrar, então esperamos que ele voltasse. ... E esse rosto ensolarado e alegre havia encolhido em um rosto pálido, trêmulo e horrorizado. Algo aconteceu. Não sabemos o que a cartomante disse [,] mas ele obviamente estava profundamente infeliz. Acho que foi provavelmente a última vez que o vimos antes de ouvirmos sobre seu suicídio.
+Desculpas e perdão do governo
+Em agosto de 2009 o programador britânico John Graham-Cumming iniciou uma petição pedindo ao governo britânico que pedisse desculpas pela acusação de Turing como homossexual.[138][139] A petição recebeu mais de 30 mil assinaturas. O primeiro ministro, Gordon Brown, reconheceu a petição, divulgando uma declaração em 10 de setembro de 2009 pedindo desculpas e descrevendo o tratamento de Turing como "terrível":[140][141]
+
+Milhares de pessoas se reuniram para exigir justiça para Alan Turing e o reconhecimento da forma terrível como ele foi tratado. Embora Turing tenha sido tratado de acordo com a lei da época e não possamos voltar no tempo, seu tratamento foi, obviamente, totalmente injusto, e estou satisfeito por ter a chance de dizer o quanto eu e todos nós sentimos profundamente pelo que aconteceu a ele ... Então, em nome do governo britânico, e de todos aqueles que vivem livremente graças ao trabalho de Alan, tenho muito orgulho de dizer: desculpe, você merecia algo muito melhor.[140][142]
+Em dezembro de 2011 William Jones e o representante do seu círculo no Parlamento, John Leech, criaram uma petição eletrônica[143] solicitando que o governo britânico perdoasse Turing por sua condenação de "indecência brutal":[144]
+
+Pedimos ao HM Government que conceda perdão a Alan Turing pela condenação de "indecência grosseira". Em 1952, ele foi condenado por "indecência grosseira" com outro homem e foi forçado a se submeter à chamada "organoterapia" — castração química. Dois anos depois, ele se matou com cianeto, aos 41 anos. Alan Turing foi levado a um terrível desespero e morte prematura pela nação que ele tanto fez para salvar. Isso continua sendo uma vergonha para o governo britânico e para a história britânica. O perdão pode ajudar de alguma forma a curar esse dano. Pode funcionar como um pedido de desculpas a muitos outros gays, não tão conhecidos como Alan Turing, que foram sujeitos a essas leis.[143]
+A petição reuniu mais de 37 mil assinaturas[143][145] e foi submetida ao Parlamento pelo deputado John Leech de Manchester, mas o pedido foi desencorajado pelo ministro da Justiça, Lord McNally, que disse:[146]
+
+Um perdão póstumo não foi considerado apropriado, pois Alan Turing foi devidamente condenado pelo que na época era um crime. Ele sabia que sua ofensa era contra a lei e que seria processado. É trágico que Alan Turing tenha sido condenado por um crime que agora parece cruel e absurdo — particularmente comovente, dada sua notável contribuição para o esforço de guerra. No entanto, a lei da época exigia um processo e, como tal, a política de longa data era aceitar que tais condenações ocorressem e, em vez de tentar alterar o contexto histórico e corrigir o que não pode ser corrigido, garantir que nunca mais voltemos a esses tempos.[147]
+John Leech, deputado por Manchester Withington de 2005 a 2015, apresentou vários projetos de lei ao Parlamento[148] e liderou uma campanha de alto nível para garantir o perdão. Leech defendeu na Câmara dos Comuns que a contribuição de Turing para a guerra fez dele um herói nacional e que era, "em última análise, embaraçoso" que a condenação ainda permanecesse.[149] Leech continuou a apoiar o projeto de lei no Parlamento e fez campanha por vários anos até que fosse aprovado.[150] Agora, Leech é descrito regularmente como o "arquiteto" do perdão de Turing e, posteriormente, da Lei Alan Turing, que garantiu perdão a 75 mil outros homens e mulheres condenados por crimes semelhantes.[151][152] Na estreia no Reino Unido de um filme baseado na vida de Turing, The Imitation Game, os produtores agradeceram a Leech por trazer o tópico à atenção do público e garantir o perdão de Turing.[153] Sua campanha se voltou para a obtenção de perdão para os 75 mil outros homens condenados pelo mesmo crime. A campanha de Leech ganhou apoio público dos principais cientistas, incluindo Stephen Hawking.[154][155][156][157]
+
+Em 26 de julho de 2012 foi introduzido um projeto de lei na Câmara dos Lordes para conceder perdão estatutário a Turing por ofensas nos termos da Seção 11 da Lei de Emenda à Lei Penal de 1885, da qual ele foi condenado em 31 de março de 1952.[158] No final do ano, em uma carta ao The Daily Telegraph, o físico Stephen Hawking e dez outros signatários, incluindo o Astrônomo Real Lord Rees, o presidente da Sociedade Real Sir Paul Nurse, Lady Trumpington (que trabalhou para Turing durante a guerra) e Lord Sharkey (o patrocinador do projeto) pediram ao então primeiro-ministro, David Cameron, que atuasse no pedido de perdão.[159] O governo indicou que apoiaria o projeto[160][161][162] e aprovou sua terceira leitura na Câmara dos Lordes em outubro.[163]
+
+Na segunda leitura do projeto na Câmara dos Comuns, em 29 de novembro de 2013, o deputado conservador Christopher Chope se opôs ao projeto, adiando sua aprovação. O projeto deveria retornar à Câmara dos Comuns em 28 de fevereiro de 2014,[164] mas antes que o projeto pudesse ser debatido,[165] o governo optou por prosseguir sob a prerrogativa real de misericórdia. Em 24 de dezembro de 2013, a rainha Elizabeth II assinou um perdão pela condenação de Turing por "indecência grosseira", com efeito imediato.[166] Ao anunciar o perdão, o chanceler Chris Grayling disse que Turing merecia ser "lembrado e reconhecido por sua fantástica contribuição ao esforço de guerra" e não por sua condenação criminal posterior.[145][167] A rainha declarou Turing oficialmente perdoado em agosto de 2014.[168] A ação da rainha foi o quarto perdão real concedido desde a conclusão da Segunda Guerra Mundial.[169] Os perdões são normalmente concedidos somente quando a pessoa é tecnicamente inocente e um pedido foi feito pela família ou outra parte interessada; nenhuma das condições foi cumprida em relação à condenação de Turing.[170]
+
+Em uma carta ao primeiro-ministro David Cameron, o advogado de direitos humanos Peter Tatchell criticou a decisão de destacar Turing devido à sua fama e conquistas quando milhares de outros condenados sob a mesma lei não receberam perdão.[171] Tatchell também pediu uma nova investigação sobre a morte de Turing:
+
+Há muito que é necessário um novo inquérito, mesmo que seja apenas para dissipar quaisquer dúvidas sobre a verdadeira causa de sua morte — incluindo especulações de que ele foi assassinado pelos serviços de segurança (ou outros). Acho improvável assassinato por agentes do estado. Não há provas que apontem para tal ato. No entanto, é uma falha grave que essa possibilidade nunca tenha sido considerada ou investigada.[172]
+Em setembro de 2016 o governo britânico anunciou a intenção de expandir essa exoneração retroativa para outros homens condenados por crimes semelhantes de indecência histórica, no que foi descrito como "Lei Alan Turing".[173][174]
+
+Legado
+Prêmios, honras e tributos
+
+O edifício Alan Turing da Universidade de Manchester em 2008
+Turing foi nomeado oficial da Ordem do Império Britânico em 1946.[70] Também foi eleito membro da Royal Society (FRS) em 1951.[2]
+
+Foi homenageado de várias maneiras em Manchester, a cidade onde trabalhou no final de sua vida. Em 1994, um trecho da estrada A6010 (o anel rodoviário intermediário da cidade de Manchester) foi nomeado "Alan Turing Way". Uma ponte que levava essa estrada foi ampliada e também leva o nome de Alan Turing Bridge. Uma estátua de Turing foi inaugurada em Manchester em 23 de junho de 2001 em Sackville Park, entre o prédio da Universidade de Manchester na Whitworth Street e a Canal Street. A estátua memorial mostra o "pai da ciência da computação" sentado em um banco em uma posição central no parque. Turing é mostrado segurando uma maçã. O banco de bronze fundido traz em relevo o texto "Alan Mathison Turing 1912–1954" e o lema "Fundador da Ciência da Computação", como apareceria se codificado por uma máquina Enigma: 'IEKYF ROMSI ADXUO KVKZC GUBJ'. No entanto, o significado da mensagem codificada é contestado, pois o "u" no "computador" corresponde ao "u" no "ADXUO". Como uma letra codificada por uma máquina Enigma não pode aparecer como ela mesma, a mensagem real por trás do código é incerta.[175]
+
+
+Placa de estátua memorial de Turing em Sackville Park, Manchester
+Uma placa aos pés da estátua diz: "Pai da ciência da computação, matemático, lógico, decifrador de código de guerra, vítima de preconceito". Há também uma citação de Bertrand Russell: "A matemática, vista corretamente, possui não apenas a verdade, mas a beleza suprema — uma beleza fria e austera, como a da escultura". O escultor enterrou seu próprio computador antigo Amstrad sob o plinto como uma homenagem ao "padrinho de todos os computadores modernos".[176]
+
+Em 1999, a revista Time nomeou Turing como uma das 100 pessoas mais importantes do século XX e declarou: "O fato é que todo mundo que toca em um teclado, abrindo uma planilha ou um programa de processamento de texto, está trabalhando em uma encarnação de uma máquina de Turing."[3]
+
+Celebrações do centenário
+Para marcar o centésimo aniversário do seu nascimento, o Comitê Consultivo Centenário de Turing (TCAC) coordenou o O Ano de Alan Turing, um programa de um ano de eventos em todo o mundo em homenagem à sua vida e realizações. O TCAC, presidido por S. Barry Cooper, com o sobrinho de Turing, Sir John Dermot Turing, atuando como presidente honorário, trabalhou com os membros do corpo docente da Universidade de Manchester e um amplo espectro de pessoas da Universidade de Cambridge e Bletchley Park.[177]
+
+Controvérsia histórica na Inglaterra
+Em maio de 2020, foi relatado pelo Gay Star News que uma escultura em aço de 3,7 metros, em homenagem a Turing e projetada por Sir Antony Gormley, estava planejada para ser instalada no King's College, em Cambridge. A Comissão de Monumentos e Edifícios Históricos do governo britânico, no entanto, disse que o trabalho abstrato de 19 placas de aço "... estaria em desacordo com o caráter existente no College. Isto resultaria em danos, de natureza menos do que substancial, ao significado dos edifícios e da paisagem listados e, por extensão, da área de conservação."[178]
+
+Notas
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Alan Turing».
+Referências
+ «Who was Alan Turing?». The British Library. Consultado em 7 de fevereiro de 2021. Cópia arquivada em 23 de julho de 2019
+ «Alan Mathison Turing. 1912–1954». Biographical Memoirs of Fellows of the Royal Society. 1: 253–263. 1955. JSTOR 769256. doi:10.1098/rsbm.1955.0019
+ «Alan Turing – Time 100 People of the Century». Time. Cópia arquivada em 19 de janeiro de 2011
+ Sipser 2006, p. 137
+ Beavers 2013, p. 481
+ See for example Richelson, Jeffery T. (1997). A Century of Spies: Intelligence in the Twentieth Century. Oxford University Press. New York: [s.n.] and Hartcup, Guy (2000). The Effect of Science on the Second World War. Macmillan Press. Basingstoke, Hampshire: [s.n.] pp. 96–99
+ «Alan Turing: The codebreaker who saved 'millions of lives'». BBC News Technology. Cópia arquivada em 11 de outubro de 2014
+ Leavitt 2007, pp. 231–233
+ «'Alan Turing law': Thousands of gay men to be pardoned». BBC News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 20 de outubro de 2016
+ Hodges 1983, p. 5
+ «The Alan Turing Internet Scrapbook». Alan Turing: The Enigma. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 14 de outubro de 2012
+ Phil Maguire, "An Irishman's Diary", p. 5. The Irish Times, 23 de junho de 2012.
+ «London Blue Plaques». English Heritage
+ The Scientific Tourist In London: #17 Alan Turing's Birth Place Arquivado 2013-09-21 no Wayback Machine, Nature. London Blog
+ «The Alan Turing Internet Scrapbook». Cópia arquivada em 20 de julho de 2011
+ Sir John Dermot Turing Arquivado 2017-10-18 no Wayback Machine on the Bletchley Park website.
+ Hodges 1983, p. 6
+ «Plaque unveiled at Turing's home in St Leonards». Hastings & St. Leonards Observer. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 12 de setembro de 2017
+ «St Leonards plaque marks Alan Turing's early years». BBC News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 3 de dezembro de 2017
+ Jones. «Alan Turing – Towards a Digital Mind: Part 1». System Toolbox. Consultado em 5 de fevereiro de 2021
+ «Guildford Dragon NEWS». The Guildford Dragon. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 19 de outubro de 2013
+ Alan Mathison. «Alan Turing Archive – Sherborne School (ARCHON CODE: GB1949)» (PDF). Sherborne School, Dorset. Consultado em 5 de fevereiro de 2021. Cópia arquivada (PDF) em 26 de dezembro de 2016
+ Hofstadter, Douglas R. (1985). Metamagical Themas: Questing for the Essence of Mind and Pattern. Basic Books. [S.l.: s.n.] ISBN 978-0-465-04566-2. OCLC 230812136
+ Hodges March 1983, p. 26
+ Hodges 1983, p. 34
+ The Shirburnian, ed. (Março de 1930). «Obituary-for-Christopher-Morcom» (PDF). Consultado em 7 de fevereiro de 2021
+ Caryl, Christian. «Poor Imitation of Alan Turing». New York Review of Books. Cópia arquivada em 7 de janeiro de 2015
+ Rachel Hassall, 'The Sherborne Formula: The Making of Alan Turing' Arquivado 2014-04-15 no Wayback Machine 'Vivat!' 2012/13
+ Teuscher, ed. (2004). Alan Turing: Life and Legacy of a Great Thinker. Springer-Verlag. [S.l.: s.n.] ISBN 978-3-540-20020-8. OCLC 53434737
+ Hodges 1983, p. 61
+ Hodges, Andrew (2012). Alan Turing: The Enigma. [S.l.]: Princeton University Press. p. 87. ISBN 978-0-691-15564-7
+ Hodges, Andrew (2012). Alan Turing: The Enigma. [S.l.]: Princeton University Press. p. 90. ISBN 978-0-691-15564-7
+ Paul Gray, Alan Turing Arquivado 2011-01-19 no Wayback Machine Time Magazine's Most Important People of the Century, p. 2
+ Hodges 1983, pp. 82–83
+ See Section 3 of John Aldrich, "England and Continental Probability in the Inter-War Years", Journal Electronique d'Histoire des Probabilités et de la Statistique, vol. 5/2 Decembre 2009 Arquivado 2018-04-21 no Wayback Machine Journal Electronique d'Histoire des Probabilités et de la Statistique
+ Hodges 1983, pp. 88, 94
+ «Blue plaque to commemorate Alan Turing». King's College, Cambridge. Cópia arquivada em 7 de dezembro de 2018
+ «Turing plaque fixed in place». King's College, Cambridge. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 9 de dezembro de 2018
+ Turing 1937
+ B. Jack Copeland; Carl J. Posy; Oron Shagrir (2013). Computability: Turing, Gödel, Church, and Beyond. MIT Press. [S.l.: s.n.] ISBN 9780262018999
+ Church 1936
+ «What Did Turing Do for Us?». Universidade de Cambridge. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 4 de março de 2016
+ Carta de Stanley Frankel a Brian Randell, 1972, citada por Jack Copeland (2004) em The Essential Turing, p. 22.
+ Hodges 1983, p. 138
+ «Systems of Logic Based on Ordinals». Proceedings of the London Mathematical Society. s2-45: 161–228. 1939. doi:10.1112/plms/s2-45.1.161
+ Turing (1938). «Systems of Logic Based on Ordinals» (PDF). Consultado em 5 de fevereiro de 2021. Cópia arquivada (PDF) em 23 de outubro de 2012
+ John Von Neumann: The Scientific Genius Who Pioneered the Modern Computer, Game Theory, Nuclear Deterrence, and Much More, Norman MacRae, 1999, American Mathematical Society, Chapter 8
+ Hodges 1983, p. 152
+ Cora Diamond (ed.), Wittgenstein's Lectures on the Foundations of Mathematics, University of Chicago Press, 1976
+ Hodges 1983, pp. 153–154
+ Briggs, Asa (21 de novembro de 2011). Britain's Greatest Codebreaker (TV broadcast). UK Channel 4
+ Copeland, Jack (2001). «Colossus and the Dawning of the Computer Age». In: Smith; Erskine. Action This Day. Bantam. [S.l.: s.n.] ISBN 9780593049105
+ Copeland 2004a, p. 217
+ «Turing's achievements: codebreaking, AI and the birth of computer science (Wired UK)». Wired. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 2 de novembro de 2013
+ Copeland, 2006 p. 378.
+ Turing, Alan (c. 1941). «The Applications of Probability to Cryptography». The National Archives (United Kingdom): HW 25/37. Consultado em 25 de março de 2015. Cópia arquivada em 7 de abril de 2015
+ Turing, Alan (c. 1941). «Paper on Statistics of Repetitions». The National Archives (United Kingdom): HW 25/38. Consultado em 25 de março de 2015. Cópia arquivada em 8 de abril de 2015
+ Vallance, Chris (19 de abril de 2012). «Alan Turing papers on code breaking released by GCHQ». BBC News. Consultado em 20 de abril de 2012. Cópia arquivada em 4 de outubro de 2012
+ Hodges 1983, p. 208
+ Lewin 1978, p. 57
+ Hilton. «A Century of Mathematics in America, Part 1, Reminiscences of Bletchley Park» (PDF). Cópia arquivada (PDF) em 29 de agosto de 2019
+ Hilton. «NOVA | Transcripts | Decoding Nazi Secrets | PBS». Consultado em 5 de fevereiro de 2021. Cópia arquivada em 29 de agosto de 2019
+ Brown, Anthony Cave (1975). Bodyguard of Lies: The Extraordinary True Story Behind D-Day. The Lyons Press. [S.l.: s.n.] ISBN 978-1-59921-383-5
+ Graham-Cumming, John. «An Olympic honour for Alan Turing». The Guardian. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 1 de dezembro de 2016
+ Butcher. «In Praise of Great Men». Globe Runner. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 18 de agosto de 2013
+ «Alan Turing: a short biography». Alan Turing: The Enigma. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 14 de setembro de 2013
+ «Alan Turing: a short biography». The Guardian. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 8 de novembro de 2014
+ «Turing as a runner». The MacTutor History of Mathematics archive. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 13 de novembro de 2014
+ «Alan Turing: Colleagues share their memories». BBC News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 7 de julho de 2018
+ «This month in history: Alan Turing and the Enigma code». thegazette.co.uk. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 26 de junho de 2019
+ Welchman, Gordon (1997) [1982], The Hut Six story: Breaking the Enigma codes, ISBN 978-0-947712-34-1, Cleobury Mortimer, England: M&M Baldwin, p. 81
+ Oakley 2006, p. 40/03B
+ Hodges 1983, p. 218
+ Hodges 1983, p. 221
+ Copeland, The Essential Turing, pp. 336–337 Arquivado 2015-02-18 no Wayback Machine.
+ «Alan Turing, Codebreaker and Computer Pioneer». alanturing.net. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 9 de julho de 2007
+ «Bletchley Park Unveils Statue Commemorating Alan Turing». Consultado em 5 de fevereiro de 2021. Cópia arquivada em 30 de junho de 2007
+ Mahon 1945, p. 14
+ Leavitt 2007, pp. 184–186
+ Gladwin. «Alan Turing, Enigma, and the Breaking of German Machine Ciphers in World War II» (PDF). Prologue Magazine. 1997: 202–217 – via National Archives
+ Good, Jack; Michie, Donald; Timms, Geoffrey (1945), General Report on Tunny: With Emphasis on Statistical Methods, Part 3 Organisation: 38 Wheel-breaking from Key, Page 293, UK Public Record Office HW 25/4 and HW 25/5, consultado em 13 de abril de 2019, cópia arquivada em 21 de abril de 2019
+ Hodges 1983, pp. 242–245
+ Turing, Alan M. (2001). «Visit to National Cash Register Corporation of Dayton, Ohio». Cryptologia. 25 (1): 1–10. doi:10.1080/0161-110191889734
+ Hodges 1983, pp. 245–253
+ «Marshall Legacy Series: Codebreaking – Events». marshallfoundation.org. Cópia arquivada em 7 de abril de 2019
+ Alexander circa 1945, p. 42
+ Copeland 2006, p. 380
+ Copeland 2006, p. 381
+ Copeland 2006, p. 72
+ Gannon 2007, p. 230
+ Hilton 2006, pp. 197–199
+ Copeland 2006, pp. 382, 383
+ Hodges 1983, pp. 245–250
+ Hodges 1983, p. 273
+ Hodges 1983, p. 346
+ Copeland 2006, p. 108
+ Randell (1980). «A History of Computing in the Twentieth Century: Colossus» (PDF). Cópia arquivada (PDF) em 27 de janeiro de 2012 citing Womersley. «'ACE' Machine Project». Executive Committee, National Physical Laboratory, Teddington, Middlesex
+ See Copeland 2004b, pp. 410–432
+ «Turing at NPL». Cópia arquivada em 5 de julho de 2015
+ Bruderer, Herbert. «Did Alan Turing interrogate Konrad Zuse in Göttingen in 1947?» (PDF). Cópia arquivada (PDF) em 21 de maio de 2013
+ Swinton, Jonathan (2019). Alan Turing's Manchester. Infang Publishing. Manchester: [s.n.] ISBN 978-0-9931789-2-4. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 17 de fevereiro de 2019
+ «Rounding-Off Errors in Matrix Processes». The Quarterly Journal of Mechanics and Applied Mathematics. 1: 287–308. 1948. doi:10.1093/qjmam/1.1.287
+ «The reCAPTCHA Project – Carnegie Mellon University CyLab». www.cylab.cmu.edu. Consultado em 13 de janeiro de 2017. Cópia arquivada em 27 de outubro de 2017
+ Clark. «Turing's achievements: codebreaking, AI and the birth of computer science». Wired. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 2 de novembro de 2013
+ Alan Turing vs Alick Glennie (1952) "Turing Test" Arquivado 2006-02-19 no Wayback Machine Chessgames.com
+ Kasparov, Garry, Smart machines will free us all, The Wall Street Journal, 15–16 April 2017, p. c3
+ «David Gawen Champernowne». MacTutor History of Mathematics archive, School of Mathematics and Statistics, University of St Andrews, Scotland. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 19 de outubro de 2017
+ «Turing Test: 50 Years Later». Minds and Machines. 10: 463–518. 2000. doi:10.1023/A:1011288000451
+ «The Chemical Basis of Morphogenesis». Philosophical Transactions of the Royal Society of London B. 237 (641). pp. 37–72. Bibcode:1952RSPTB.237...37T. doi:10.1098/rstb.1952.0012
+ John Gribbin, Deep Simplicity, p. 126, Random House, 2004
+ «Turing's Last, Lost work»
+ James Murray, How the leopard gets its spots, Scientific American, vol 258, number 3, p. 80, March 1988
+ James Murray, Mathematical Biology I, 2007, Chapter 6, Springer Verlag
+ John Gibbin, Deep Simplicity, p. 134, Random House, 2004
+ «Turing Pattern Fingered for Digit Formation». Science. 338. 1406 páginas. 2012. Bibcode:2012Sci...338.1406V. PMID 23239707. doi:10.1126/science.338.6113.1406
+ «Hox Genes Regulate Digit Patterning by Controlling the Wavelength of a Turing-Type Mechanism». Science. 338: 1476–1480. 2012. Bibcode:2012Sci...338.1476S. PMC 4486416Acessível livremente. PMID 23239739. doi:10.1126/science.1226804
+ Andrew Hodges. «The Alan Turing Bibliography». turing.org.uk. Cópia arquivada em 5 de setembro de 2015
+ Leavitt 2007, pp. 176–178
+ Hodges 1983, p. 458
+ Leavitt 2007, p. 268
+ Hodges, Andrew (2012). Alan Turing: The Enigma. Princeton University Press. [S.l.: s.n.] ISBN 978-0-691-15564-7
+ Hodges, Andrew (2012). Alan Turing: The Enigma. Princeton University Press. [S.l.: s.n.] ISBN 978-0-691-15564-7
+ Hodges, Andrew (2012). Alan Turing: The Enigma The Centenary Edition. Princeton University. [S.l.: s.n.]
+ Turing (1952). «Letters of Note: Yours in distress, Alan»
+ Hodges, Andrew (2012). Alan Turing: The Enigma. Princeton University Press. [S.l.: s.n.] ISBN 978-0-691-15564-7
+ Hodges 1983, p. 473
+ Copeland 2006, p. 143
+ «Alan Turing. Biography, Facts, & Education». Consultado em 5 de fevereiro de 2021. Cópia arquivada em 11 de outubro de 2017
+ Hodges 1983, p. 488
+ Leavitt 2007, p. 140 and Hodges 1983, pp. 149, 489
+ Hodges 1983, p. 529
+ Hodges, Andrew (2012). Alan Turing: The Enigma. Random House. [S.l.: s.n.] ISBN 978-1-4481-3781-7. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 17 de janeiro de 2019
+ «Alan Turing: Inquest's suicide verdict 'not supportable'». BBC News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 23 de junho de 2012
+ «TURING, Ethel Sara (1881–1976, mother of Alan Turing). Series of 11 autograph letters to Robin Gandy, Guilford, 28 July 1954 – 11 June 1971 (most before 1959), altogether 29 pages, 8vo (2 letters dated 17 May and 26 May 1955 incomplete, lacking continuation leaves, occasional light soiling)». christies.com. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 7 de fevereiro de 2019
+ Hodges 1983, pp. 488, 489
+ Levy, Joel (2018). Mathematics: A curious history – From Early Number Concepts To The Chaos Theory. Carlton Publishing Group. London: [s.n.] ISBN 9780233005447
+ Vincent Dowd. «What was Alan Turing really like?». BBC. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 17 de janeiro de 2019
+ Thousands call for Turing apology. BBC News. [S.l.: s.n.] 31 de agosto de 2009. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 31 de agosto de 2009
+ Petition seeks apology for Enigma code-breaker Turing. CNN. [S.l.: s.n.] 1 de setembro de 2009. Consultado em 5 de fevereiro de 2021
+ «PM's apology to codebreaker Alan Turing: we were inhumane». The Guardian. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 4 de fevereiro de 2017
+ «PM apology after Turing petition». BBC News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 27 de maio de 2012
+ Full text of the Prime Minister's apology Arquivado 2012-11-09 no Wayback Machine.
+ «Grant a pardon to Alan Turing»
+ «Petition to pardon computer pioneer Alan Turing started». BBC News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 19 de junho de 2018
+ Wright, Oliver. «Alan Turing gets his royal pardon for 'gross indecency' – 61 years after he poisoned himself». The Independent. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 24 de dezembro de 2013
+ Wainwright. «Government rejects a pardon for computer genius Alan Turing». The Guardian. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 4 de fevereiro de 2017
+ «hansard». Parliament of the United Kingdom. 2 de fevereiro de 2012. Consultado em 29 de agosto de 2017. Cópia arquivada em 6 de julho de 2017
+ Stevenson. «Better late than never, Alan Turing is finally pardoned». politics.co.uk. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 16 de agosto de 2016
+ Fitzgerald. «Alan Turing's court convictions go on display for the first time». manchestereveningnews.co.uk. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 25 de setembro de 2016
+ «MP calls for pardon for computer pioneer Alan Turing». BBC News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 2 de julho de 2016
+ «Archived copy». Consultado em 5 de fevereiro de 2021. Cópia arquivada em 19 de julho de 2019
+ «Archived copy». Consultado em 5 de fevereiro de 2021. Cópia arquivada em 16 de julho de 2019
+ «My proudest day as a Liberal Democrat». Liberal Democrat Voice. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 24 de junho de 2018
+ «Alan Turing pardoned by The Queen for his 'unjust and discriminatory' conviction for homosexuality». Manchester Evening News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 24 de junho de 2018
+ «Alan Turing's 'fearless approach to problems and intellectual curiosity' praised». Dunfermline Press. Consultado em 5 de fevereiro de 2021
+ «The Alan Turing Law finally pardons thousands of unfairly convicted gay and bisexual men». University of Manchester. Consultado em 5 de fevereiro de 2021
+ «Bank of England honours Alan Turing on £50 note». QNews. Consultado em 5 de fevereiro de 2021
+ «Bill». Parlamento do Reino Unido. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 2 de novembro de 2013
+ Pearse, Damian, "Alan Turing should be pardoned, argue Stephen Hawking and top scientists" Arquivado 2017-02-04 no Wayback Machine, The Guardian, 13 de dezembro de 2012. Acessado em 15 de dezembro de 2012.
+ Watt, Nicholas. «Enigma codebreaker Alan Turing to be given posthumous pardon». The Guardian. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 4 de janeiro de 2017
+ «Alan Turing pardon sails through House of Lords». V3. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 24 de dezembro de 2013
+ «Alan Turing (Statutory Pardon) Bill». Consultado em 5 de fevereiro de 2021. Cópia arquivada em 5 de julho de 2013
+ Roberts, Scott. «Lib Dem MP John Leech disappointed at delay to Alan Turing pardon bill». Pink News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 25 de dezembro de 2013
+ «Lib Dem MP John Leech disappointed at delay to Alan Turing pardon bill». PinkNews. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 12 de junho de 2018
+ «Alan Turing (Statutory Pardon) Bill». Consultado em 5 de fevereiro de 2021. Cópia arquivada em 2 de novembro de 2013
+ Swinford. «Alan Turing granted Royal pardon by the Queen». The Daily Telegraph. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 2 de maio de 2018
+ «Royal pardon for codebreaker Alan Turing». BBC News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 24 de dezembro de 2013
+ «With Queen's Decree, Alan Turing Is Now Officially Pardoned». Advocate.com. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 1 de novembro de 2014
+ Pardoned: Alan Turing, Computing patriarch. Time Magazine, vol. 183, no. 1, 13 January 2014, p. 14. Acessado em 6 de janeiro de 2014.
+ «Enigma codebreaker Alan Turing receives royal pardon». The Guardian. 24 de dezembro de 2013. Consultado em 5 de fevereiro de 2021
+ «Alan Turing: Was He Murdered By the Security Services?». The Huffington Post UK. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 29 de dezembro de 2013
+ Tatchell, Peter (27 de dezembro de 2013). «The Big Questions: Do we need an inquiry into the death of Alan Turing? Should Britain boycott Sochi?». The Independent. Consultado em 14 de fevereiro de 2017. Cópia arquivada em 15 de fevereiro de 2017
+ «Government 'committed' to Alan Turing gay pardon law». BBC News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 22 de setembro de 2016
+ Cowburn. «Theresa May committed to introducing the 'Alan Turing Law'». The Independent. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 22 de setembro de 2016
+ «What does the code on the Alan Turing Memorial actually say?». Random Hacks. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 28 de junho de 2018
+ «Computer buried in tribute to genius». Manchester Evening News. Consultado em 5 de fevereiro de 2021. Cópia arquivada em 4 de novembro de 2013
+ Cooper, S. Barry. «Imitation Game brings to life the real Alan Turing, pioneer of the computer age». theconversation.com
+ Reid-Smith. «Heritage watchdog objects to statue of gay hero Alan Turing at Kings College Cambridge». Gay Star News. Consultado em 5 de fevereiro de 2021
+Bibliografia
+Agar, Jon (2001). Turing and the Universal Machine. Duxford: Icon. ISBN 978-1-84046-250-0
+Agar, Jon (2003). The government machine: a revolutionary history of the computer. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-01202-7
+Alexander, C. Hugh O'D. «Cryptographic History of Work on the German Naval Enigma». The National Archives, Kew, Reference HW 25/1
+Beavers, Anthony (2013). «Alan Turing: Mathematical Mechanist». In: Cooper, S. Barry; van Leeuwen, Jan. Alan Turing: His Work and Impact. Waltham: Elsevier. pp. 481–485. ISBN 978-0-12-386980-7
+Beniger, James (1986). The control revolution: technological and economic origins of the information society. Cambridge, Massachusetts: Harvard University Press. ISBN 978-0-674-16986-9
+Babbage, Charles (1864). Campbell-Kelly, Martin, ed. Passages from the life of a philosopher. [S.l.]: Rough Draft Printing (publicado em 2008). ISBN 978-1-60386-092-5
+Bodanis, David (2005). Electric Universe: How Electricity Switched on the Modern World. New York: Three Rivers Press. ISBN 978-0-307-33598-2. OCLC 61684223
+Bruderer, Herbert: Konrad Zuse und die Schweiz. Wer hat den Computer erfunden? Charles Babbage, Alan Turing und John von Neumann Oldenbourg Verlag, München 2012, XXVI, 224 Seiten, ISBN 978-3-486-71366-4
+Campbell-Kelly, Martin; Aspray, William (1996). Computer: A History of the Information Machine. New York: Basic Books. ISBN 978-0-465-02989-1
+Ceruzzi, Paul E. (1998). A History of Modern Computing. Cambridge, Massachusetts e Londres: MIT Press. ISBN 978-0-262-53169-6
+Chandler, Alfred (1977). The Visible Hand: The Managerial Revolution in American Business. Cambridge, Massachusetts: Belknap Press. ISBN 978-0-674-94052-9
+Church, Alonzo (1936). «An Unsolvable Problem of Elementary Number Theory». American Journal of Mathematics. 58 (2): 345–363. ISSN 0002-9327. JSTOR 2371045. doi:10.2307/2371045
+Cooper, S. Barry; van Leeuwen, Jan (2013). Alan Turing: His Work and Impact. New York: Elsevier. ISBN 978-0-12-386980-7
+Copeland, B. Jack (2004a). «Colossus: Its Origins and Originators». IEEE Annals of the History of Computing. 26 (4): 38–45. doi:10.1109/MAHC.2004.26
+Copeland, B. Jack, ed. (2004b). The Essential Turing. Oxford: Oxford University Press. ISBN 978-0-19-825079-1. OCLC 156728127
+Copeland, B. Jack, ed. (2005). Alan Turing's Automatic Computing Engine. Oxford: Oxford University Press. ISBN 978-0-19-856593-2. OCLC 224640979
+Copeland, B. Jack (2006). Colossus: The secrets of Bletchley Park's code-breaking computers. [S.l.]: Oxford University Press. ISBN 978-0-19-284055-4
+Hilton, Peter (2006). «Living with Fish: Breaking Tunny in the Newmanry and Testery». Colussus. [S.l.: s.n.] in Copeland 2006, pp. 189–203
+Edwards, Paul N (1996). The closed world: computers and the politics of discourse in Cold War America. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-55028-4
+Gannon, Paul (2007) [2006]. Colossus: Bletchley Park's Greatest Secret. Londres: Atlantic Books. ISBN 978-1-84354-331-2
+Hodges, Andrew (1983). Alan Turing : the enigma. Londres: Burnett Books. ISBN 978-0-09-152130-1
+Hochhuth, Rolf (1988). Alan Turing: en berättelse. [S.l.]: Symposion. ISBN 978-91-7868-109-9
+Leavitt, David (2007). The man who knew too much: Alan Turing and the invention of the computer. [S.l.]: Phoenix. ISBN 978-0-7538-2200-5
+Levin, Janna (2006). A Madman Dreams of Turing Machines. New York: Knopf. ISBN 978-1-4000-3240-2
+Lewin, Ronald (1978). Ultra Goes to War: The Secret Story. Col: Classic Military History Classic Penguin ed. Londres: Hutchinson & Co (publicado em 2001). ISBN 978-1-56649-231-7
+Lubar, Steven (1993). Infoculture. Boston, Massachusetts e Nova York: Houghton Mifflin. ISBN 978-0-395-57042-5
+Mahon, A.P. (1945). «The History of Hut Eight 1939–1945». UK National Archives Reference HW 25/2. Consultado em 10 de dezembro de 2009
+Oakley, Brian, ed. (2006). The Bletchley Park War Diaries: July 1939 – August 1945 2.6 ed. [S.l.]: Wynne Press
+O'Connell, H; Fitzgerald, M (2003). «Did Alan Turing have Asperger's syndrome?». Irish Institute of Psychological Medicine. Irish Journal of Psychological Medicine. 20 (1): 28–31. ISSN 0790-9667. PMID 30440230. doi:10.1017/s0790966700007503
+John J. O’Connor, Edmund F. Robertson: Alan Mathison Turing. In: MacTutor History of Mathematics archive.
+Petzold, Charles (2008). "The Annotated Turing: A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine". Indianapolis: Wiley Publishing. ISBN 978-0-470-22905-7
+Smith, Roger (1997). Fontana History of the Human Sciences. Londres: Fontana.
+Sipser, Michael (2006). Introduction to the Theory of Computation. [S.l.]: PWS Publishing. ISBN 978-0-534-95097-2
+Weizenbaum, Joseph (1976). Computer Power and Human Reason. Londres: W.H. Freeman. ISBN 0-7167-0463-3
+Turing, A.M. (1937) [Delivered to the Society November 1936]. «On Computable Numbers, with an Application to the Entscheidungsproblem» (PDF). Proceedings of the London Mathematical Society. 2. 42. pp. 230–65. doi:10.1112/plms/s2-42.1.230 and Turing, A.M. (1938). «On Computable Numbers, with an Application to the Entscheidungsproblem: A correction». Proceedings of the London Mathematical Society. 2. 43 (publicado em 1937). pp. 544–46. doi:10.1112/plms/s2-43.6.544
+Turing, Sara Stoney (1959). Alan M Turing. [S.l.]: W Heffer
+Whitemore, Hughe; Hodges, Andrew (1988). Breaking the code. [S.l.]: S. French
+Williams, Michael R. (1985) A History of Computing Technology, Englewood Cliffs, Nova Jérsia: Prentice-Hall, ISBN 0-8186-7739-2
+Yates, David M. (1997). Turing's Legacy: A history of computing at the National Physical Laboratory 1945–1995. Londres: London Science Museum. ISBN 978-0-901805-94-2. OCLC 123794619
